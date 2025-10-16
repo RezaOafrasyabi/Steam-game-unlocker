@@ -13,17 +13,6 @@
 - Supports account types: `standard`, `vip`, and `gift`.
 - Gift accounts have limited game access (only select games).
 
-### Game Library Management
-- View your game library.
-- Add new games to your library.
-- Track download and installation status.
-
-### Download & Installation
-- Download games from a URL.
-- Extract ZIP files and deploy Lua and manifest files to Steam.
-- Track progress of downloads and installations with unique worker IDs.
-- Deploy files from encoded source files (`src.txt` or `srcgift.txt`).
-
 ### Steam Integration
 - Detect installed Steam paths automatically.
 - Deploy files to Steam config and depotcache directories.
